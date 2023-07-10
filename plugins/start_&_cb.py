@@ -34,5 +34,5 @@ async def start(client, message):
     user = message.from_user
     await db.add_user(client, message)
     await message.reply_photo(
-        photo="",
+        photo="https://telegra.ph/file/2866e06d3f97dc41ab72c.jpg",
         caption="RENAME BOT IS ALIVE")
