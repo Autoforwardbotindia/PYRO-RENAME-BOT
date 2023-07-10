@@ -100,6 +100,11 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
-╰━━━━━━━━━━━━━━━➣ </b>"""
+╰━━━━━━━━━━━━━━━➣
+
+   THE SPEED WILL DEPENDS ON SERVER LOAD\n
+   DEPLOYED IN FLY.IO VPS ANY PROBLEMS\n\n
+   
+   MESSAGE @SIRISH BOT OWNED BY @M2LINKS <b>"""
 
 
