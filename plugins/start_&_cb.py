@@ -32,4 +32,7 @@ from config import Config, Txt
 @Client.on_message(filters.private & filters.command("start"))
 async def start(client, message):
     user = message.from_user
-    await db.add_user(client, message) 
+    await db.add_user(client, message)
+    await message.reply_photo(
+        photo="",
+        caption="RENAME BOT IS ALIVE")
